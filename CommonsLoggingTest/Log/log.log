@@ -1,0 +1,5 @@
+[INFO ]2016-10-29 14:02:34 [ main ] Here is some INFO
+  [WARN ]2016-10-29 14:02:34 [ main ] Here is some WARN
+  [ERROR]2016-10-29 14:02:34 [ main ] Here is some ERROR
+  [FATAL]2016-10-29 14:02:34 [ main ] Here is some FATAL
+  
